@@ -1,0 +1,18 @@
+h3{
+    color: rgb(125, 98, 66);
+    font-size:15px;
+}
+.gayatombol{
+    background-color: rgb(229, 202, 168);
+    color: red;
+    padding: 8px 16px 4px 10px; /*top right bottom left (searah jaru jam)*/
+    padding: 8px 16px;
+    padding: 8px;
+    padding: 8px auto;
+    margin-left: 200px ;
+    border-style: dotted solid 1px;
+}
+#gayatombollagi{
+    background-color: rgb(41, 154, 52);
+    color: red;
+}
